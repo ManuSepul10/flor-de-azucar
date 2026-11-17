@@ -1,0 +1,10 @@
+{
+  "description": "Explora y compra budines de vainilla en sabores variados, con precios individuales y descuentos por mayor, además de envío a domicilio.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
